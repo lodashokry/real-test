@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Regstration
+        </title>
+        <link rel="stylesheet" href="tak4.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+        <style>
+            
+            
+            
+        </style>
+    </head>
+    <body>
+        <form>
+        
+           <div class="intro">
+            <div>
+                <h1>Registration</h1>
+                <hr>
+                <input type="radio" id="personal" class="input">
+                <label for="personal" class="label1">Personal</label>
+
+                <input type="radio" id="company" class="input">
+                <label for="company" class="label2">Company</label>
+                <hr>
+
+                
+             <div class="input-container">
+                    <label id="icon" for="email"><i class="material-icons" style="color:white;">email</i></label>
+                    <input type="text" name="email" id="email" placeholder="Email" required/>
+                    
+             </div>
+             <br>
+             
+             <div class="input-container">
+                <label id="icon-name" for="username"><i class="material-icons" style="color:white">account_circle</i></label>
+                <input type="text" name="name" id="name" placeholder="Name" required/>
+              </div>
+              <br>
+              <div class="input-container">
+                <label id="icon-password" for="password"><i class="material-icons" style="color:white">password</i></label>
+                <input type="text" name="pass" id="pass" placeholder="Password" required/>
+              </div>
+              <br>
+              <hr>
+              <input type="radio" id="male" class="input">
+                <label for="male" class="label1">Male</label>
+
+                <input type="radio" id="female" class="input">
+                <label for="female" class="label2">Female</label>
+                <hr>
+                <p>By clicking Register, you agree on our<u> Privacy Policy for W3Docs.</u></p>
+                
+                <input type="submit" value="Submit" class="submit">
+
+
+            
+                    
+
+            </div>
+            
+                
+            
+           </div>
+        </form> 
+           
+
+    </body>
+</html>
+
+
+
+
+

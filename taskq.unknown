@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<htmt>
+    <head>
+        <title>
+            Assignments
+        </title>
+        <link rel="stylesheet" href="task.css">
+        <style>
+            .name{
+                   position: relative;
+                   margin-left: 500px;
+                   margin-top: 20px;
+                }
+            .third{
+                margin-left: 510px;
+                margin-top: 30px;
+                color: gray;
+            }
+            
+            
+
+            
+            
+            h3{
+                color: white;
+                margin-left: 245px;
+                width: 400;
+                margin-top: 100px;
+
+            }
+            
+
+            .contact{
+                background-color: black;
+                border-radius: 5px;
+                padding-left: 10px;
+                margin-left: 340px;
+                margin-right: 400px;
+                margin-top: 20px;
+
+            }
+            
+
+
+
+                
+
+
+        </style>
+
+    </head>
+    <body>
+        
+            <img class="first" src="actor.avif" alt="photo of actor">
+        
+            <h1 class="name">Amanda Seyfried</h1>
+
+            <h3 class="third">Actress, Model and Singer</h3>
+
+            <div class="contact">
+                <h3>contact</h3>
+            </div>
+            
+            
+                 
+            
+    
+
+           
+       
+        
+    </body>
+
+</htmt>

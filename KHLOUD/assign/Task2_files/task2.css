@@ -1,0 +1,54 @@
+.move{
+    float:right;
+    margin-right: 70px;
+    
+}
+.box1{
+    background-color: rgb(230, 221, 221);
+    height: 50px;
+    color: black;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 50px;
+
+}
+.move2 {
+    float:right;
+    margin-right: 70px;
+    
+
+}
+.move2 :hover{
+    background-color: blue;
+    padding: 15px;
+}
+
+ul{
+    background-color: black;
+    height: 50px;
+    color: white;
+    margin-left: 70px;
+    margin-right: 70px;
+    
+    
+}
+
+li{
+    
+    display:inline;
+    position: relative;
+    top:15px;
+    margin-left: 20px;
+    padding-left:20px;
+
+}
+li:hover{
+    background-color: green;
+    padding: 15px;
+    
+}
+li:active{
+    background-color: blue;
+    padding: 15px;
+
+}

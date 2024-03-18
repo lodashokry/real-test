@@ -1,0 +1,155 @@
+.form{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+.fname{
+    position: relative;
+    left:50px;
+}
+.text{
+    position: relative;
+    left:160px;
+    border-radius:15px;
+    width: 300px;
+
+}
+.lname{
+    position: relative;
+    right:310px;
+}
+.text1{
+    position: relative;
+    right:200px;
+    border-radius:15px;
+    width: 300px;
+
+}
+.uname{
+    position: relative;
+    right:300px;
+
+}
+.text2{
+    position: relative;
+    right:20px;
+    border-radius:15px;
+    width: 650px;
+
+
+}
+.email{
+    position: relative;
+    right:315px;
+
+}
+.text3{
+    position: relative;
+    right:20px;
+    border-radius:15px;
+    width: 650px;
+
+
+}.num{
+    position: relative;
+    right:285px;
+}
+.enter{
+    position: relative;
+    right:20px;
+    border-radius:15px;
+    width: 650px;
+    color: grey;
+}
+.city{
+    position: relative;
+    left:130px;
+}
+.text4{
+    position: relative;
+    left:210px;
+    border-radius:15px;
+    width: 200px;
+
+
+}
+.state{
+    position: relative;
+    right:100px;
+}
+select{
+    position: relative;
+    left:30px;
+    border-radius:15px;
+    width: 300px;
+    color:grey;
+
+
+}
+.zip{position: relative;
+    right:250px;
+}
+.text5{
+    position: relative;
+    right:190px;
+    border-radius:15px;
+    width: 150px;
+
+
+}
+.pass{
+    position: relative;
+    right:310px;
+}
+.text6{
+    position: relative;
+    right:25px;
+    border-radius:15px;
+    width: 650px;
+    color: grey;
+
+
+}
+.confirm{
+    position: relative;
+    right:280px;
+}
+.text7{
+    position: relative;
+    right:25px;
+    border-radius:15px;
+    width: 650px;
+    color: grey;
+
+
+}
+.radio{
+    position: relative;
+    right:200px;
+
+}
+.radio1{
+    position: relative;
+    right:20px;
+
+}
+.agree{
+    position: relative;
+    right:15px;
+
+}
+.register{
+    color:white;
+    background-color: grey;
+    width:100px;
+    text-align: center;
+    border-radius:5px;
+    border-style: groove;
+}
+u{
+    color:blue;
+}
+
+
+
+

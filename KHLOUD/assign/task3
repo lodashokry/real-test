@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Assignment2
+        </title>
+        <link rel="stylesheet" href="task3.css">
+        <style>
+           
+        </style>
+        
+        
+        
+    </head>
+    <body> 
+        <div class="intro">
+            <div>
+
+                <ul>
+
+
+                     <li ><b>YOUR SITE</b></li>
+            
+                     <li class="first">Sign Up</li>
+                     <li class="second">Tour</li>
+                     <li class="third">Home</li>
+            
+
+                </ul>
+            </div>
+            <div class="text">
+                <p>BIG BOLD TEXT</p>
+            </div>
+            <div class="text2">
+                <p>LOREM IPSUM DOLOR SIT AMET,CONSECTETUR ADIPISICING ELIT.</p>
+            </div>
+            
+                <input type="button" value="GET STARTED">
+        
+
+         
+
+         
+
+        </div>
+    </body>   

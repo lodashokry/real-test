@@ -1,0 +1,22 @@
+.intro{
+    background-color: rgb(10, 6, 24);
+    text-align: center;
+    color: white;
+
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+    
+    
+}
+.comment{
+    color:gray;
+}
+.comment2{
+    width: 200px;
+    
+}
+

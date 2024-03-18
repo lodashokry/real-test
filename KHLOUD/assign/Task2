@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Task2
+        </title>
+        <link rel="stylesheet" href="task2.css">
+        <style>
+           
+        </style>
+        
+        
+        
+    </head>
+    <body>   
+        <ul>
+
+            <li>Home</li>
+            <li>News</li>
+            <li>Contact</li>
+            <li class="move">About</li>
+
+        </ul>
+        <ul class="box1" >
+
+            <li >Home</li>
+            <li >News</li>
+            <li >Contact</li>
+            <li class="move2" >About</li>
+
+        </ul>
+
+            
+    
+    </body>
+</html>

@@ -1,0 +1,117 @@
+.head{
+    
+    color:white;
+    float:right;
+    margin-right: 60px;
+    display: fixed;
+}
+.button{
+    color:white;
+    background-color: blueviolet;
+    border-radius: 10px;
+    
+    margin-left: 10px;
+    border-color: rgb(216, 211, 211);
+    border-style: solid ;
+    font-size: 11px;
+    width: 100px;
+    height: 20px;
+
+}.custom-dropdown {
+    position: relative;
+    display: inline-block;
+    user-select: none;
+    display: fixed;
+}
+
+.custom-dropdown select {
+    background: none; 
+    border: none;     
+    padding: 5px;
+    color: white;   
+}
+.custom-dropdown :hover{
+    color: blueviolet;
+
+}
+.button2{
+    color:white;
+    background-color: rgb(183, 160, 204);
+    border-radius: 15px;
+    border-color:rgb(183, 160, 204) ;
+    border-style: hidden;
+    font-size: 13px;
+    width: 120px;
+    height: 30px;
+    top:230px;
+    left:100px;
+    position: relative;
+
+}
+.fa-circle-play{
+    color:white;
+    font-size: 25px;
+    position: relative;
+    left:120px;
+    top:235px;
+}
+.parg{
+    font-size: 14px;
+    position: relative;
+    color:white;
+    left:275px;
+    top:195px;
+
+
+}
+
+
+
+    
+
+b{
+    margin-right: 430px;
+    font-size: 30px;
+    font-style: initial;
+   
+}
+
+
+
+  
+h5{
+    display: inline;
+    padding: 10px;
+    
+    
+}
+h5:hover{
+    color: blueviolet;
+}
+h5:active{
+    color:red;
+
+}
+
+
+body{
+    background-image: url('programing.PNG');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+h1{
+    color:white;
+    position: relative;
+    top:200px;
+    left:100px;
+}
+p{
+    color:white;
+    position: relative;
+    top:200px;
+    left:100px;
+
+}
+

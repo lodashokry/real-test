@@ -1,0 +1,47 @@
+.fa-camera{
+    color: white;
+    left:225px;
+    position: relative;
+}
+.fa-bars{
+    color: rgb(143, 143, 143);
+    position: relative;
+    left:1000px;
+    border:  hidden   rgb(143, 143, 143) ;
+    border-width:3px ;
+
+}
+.text{
+    text-align: center;
+    position: relative;
+    top:60px;
+    
+}
+.time{
+    position: relative;
+    left:230px;
+    font-size: 10px;
+    bottom: 14px;
+}
+.row{
+    padding:230px;
+   
+}
+.col-md-4{
+    background-color: gainsboro;
+    
+}
+h6{
+    color: white;
+    left:230px;
+    position: relative;
+    top:4px;
+}
+p{
+    color:rgb(143, 143, 143);
+    
+}
+button{
+    position: relative;
+    top:5px;
+}
